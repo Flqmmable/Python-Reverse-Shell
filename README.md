@@ -8,6 +8,7 @@
 6. Once run, the "client.py" file will connect to the target machine via the listening socket.
 
 
+
 **Additional notes:**
 
 1. Make sure that your firewall isn't blocking the connection to your device.
